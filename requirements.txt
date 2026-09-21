@@ -1,0 +1,20 @@
+# Core LLM client
+openai>=1.0.0
+
+# Schema validation & structured output
+pydantic>=2.0.0
+
+# Dashboard & Interactive Visualization
+streamlit>=1.28.0
+plotly>=5.18.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Resilience & token utilities
+tenacity>=8.0.0
+tiktoken>=0.7.0
+
+# Environment management
+python-dotenv>=1.0.0
